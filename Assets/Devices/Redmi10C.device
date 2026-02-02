@@ -1,0 +1,14 @@
+{
+  "friendlyName": "Redmi 10C",
+  "version": 1,
+  "screens": [
+    {
+      "width": 720,
+      "height": 1650,
+      "dpi": 268.0
+    }
+  ],
+  "systemInfo": {
+    "operatingSystem": "Android"
+  }
+}

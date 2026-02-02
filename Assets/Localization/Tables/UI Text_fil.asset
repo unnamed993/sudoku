@@ -1,0 +1,331 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_fil
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fil
+  m_SharedData: {fileID: 11400000, guid: 78873f953f860764fbc8fba970905860, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 61937151590400
+    m_Localized: Ingles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196736
+    m_Localized: Ruso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196737
+    m_Localized: Arabe (United Arab Emirates)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196738
+    m_Localized: Pranses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196739
+    m_Localized: Aleman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196740
+    m_Localized: Espanyol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196741
+    m_Localized: Portuges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196742
+    m_Localized: Intsik (Pinapasimple)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196743
+    m_Localized: Intsik (Tradisyonal)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196744
+    m_Localized: Hebreo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196745
+    m_Localized: Hapones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196746
+    m_Localized: Turko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196747
+    m_Localized: Tamil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585344
+    m_Localized: Hindi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585345
+    m_Localized: Indones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585346
+    m_Localized: Biyetnames
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585347
+    m_Localized: Griyego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585348
+    m_Localized: Koreano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585349
+    m_Localized: Serbiano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585350
+    m_Localized: Swedish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585351
+    m_Localized: Finnish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585352
+    m_Localized: Polako
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585353
+    m_Localized: Dutch (Netherlands)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585354
+    m_Localized: Czech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585355
+    m_Localized: Danish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779648
+    m_Localized: Norwegian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779649
+    m_Localized: Persyano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779650
+    m_Localized: Thai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779651
+    m_Localized: Telugu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779652
+    m_Localized: Urdu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779653
+    m_Localized: Sinhala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779654
+    m_Localized: Filipino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779655
+    m_Localized: Italyano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779656
+    m_Localized: Pangkalahatang mga setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973952
+    m_Localized: Mga sound effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973953
+    m_Localized: Wika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973954
+    m_Localized: Piliin ang wika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973955
+    m_Localized: Awtomatiko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973956
+    m_Localized: I-rate ang app
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973957
+    m_Localized: Magpadala ng feedback
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973958
+    m_Localized: Dalhin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973959
+    m_Localized: Alisin ang mga ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973960
+    m_Localized: Iba pa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973961
+    m_Localized: Na mga natitirang numero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973962
+    m_Localized: Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973963
+    m_Localized: Limitasyon ng error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973964
+    m_Localized: Magpakita ng impormasyon tungkol sa palaisipan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973965
+    m_Localized: Awto-tanggalin ang mga tala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973966
+    m_Localized: I-highlight ang lugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973967
+    m_Localized: I-highlight ang magkaparehong numero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973968
+    m_Localized: Paano maglaro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973969
+    m_Localized: Mga setting ng laro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973970
+    m_Localized: Mga setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973971
+    m_Localized: Wastong sagot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362560
+    m_Localized: Mga tala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362561
+    m_Localized: Punasan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362562
+    m_Localized: Ikansela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362563
+    m_Localized: I-pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362564
+    m_Localized: Kahirapan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362565
+    m_Localized: Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362566
+    m_Localized: 'Mga error:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362567
+    m_Localized: Magpatuloy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362568
+    m_Localized: Magsimula muli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362569
+    m_Localized: Tapos na ang laro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362570
+    m_Localized: 'Natalo ka, nagkamali ka ng higit sa 3 beses.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362571
+    m_Localized: Pangalawang pagkakataon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362572
+    m_Localized: Ulitin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362573
+    m_Localized: Bagong laro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362574
+    m_Localized: Baguhan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362575
+    m_Localized: Madali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362576
+    m_Localized: Katamtaman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362577
+    m_Localized: Mahirap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362578
+    m_Localized: Expert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362579
+    m_Localized: Matindi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036020349616128
+    m_Localized: 'Timer:
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883433977200640
+    m_Localized: Wika ng device
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

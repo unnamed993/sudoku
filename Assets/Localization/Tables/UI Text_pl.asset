@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 78873f953f860764fbc8fba970905860, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 61937151590400
+    m_Localized: angielski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196736
+    m_Localized: rosyjski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196737
+    m_Localized: arabski (Zjednoczone Emiraty Arabskie)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196738
+    m_Localized: francuski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196739
+    m_Localized: niemiecki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196740
+    m_Localized: "hiszpa\u0144ski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196741
+    m_Localized: portugalski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196742
+    m_Localized: "chi\u0144ski (uproszczony)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196743
+    m_Localized: "chi\u0144ski (tradycyjny)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196744
+    m_Localized: hebrajski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196745
+    m_Localized: "japo\u0144ski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196746
+    m_Localized: turecki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196747
+    m_Localized: tamilski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585344
+    m_Localized: hindi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585345
+    m_Localized: indonezyjski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585346
+    m_Localized: wietnamski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585347
+    m_Localized: grecki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585348
+    m_Localized: "korea\u0144ski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585349
+    m_Localized: serbski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585350
+    m_Localized: szwedzki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585351
+    m_Localized: "fi\u0144ski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585352
+    m_Localized: polski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585353
+    m_Localized: niderlandzki (Holandia)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585354
+    m_Localized: czeski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585355
+    m_Localized: "du\u0144ski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779648
+    m_Localized: norweski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779649
+    m_Localized: perski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779650
+    m_Localized: tajski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779651
+    m_Localized: telugu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779652
+    m_Localized: urdu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779653
+    m_Localized: syngaleski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779654
+    m_Localized: "filipi\u0144ski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779655
+    m_Localized: "w\u0142oski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779656
+    m_Localized: "Ustawienia og\xF3lne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973952
+    m_Localized: "Efekty d\u017Awi\u0119kowe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973953
+    m_Localized: "J\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973954
+    m_Localized: "Wybierz j\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973955
+    m_Localized: Automatyczny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973956
+    m_Localized: "Oce\u0144 aplikacj\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973957
+    m_Localized: "Prze\u015Blij opini\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973958
+    m_Localized: "Udost\u0119pnij"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973959
+    m_Localized: "Usu\u0144 reklamy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973960
+    m_Localized: Inne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973961
+    m_Localized: "Pozosta\u0142e liczby"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973962
+    m_Localized: Minutnik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973963
+    m_Localized: "Liczba b\u0142\u0119d\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973964
+    m_Localized: "Informacje o \u0142amig\u0142\xF3wce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973965
+    m_Localized: Automatyczne usuwanie notatek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973966
+    m_Localized: "Pod\u015Bwietl obszar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973967
+    m_Localized: "Pod\u015Bwietl te same cyfry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973968
+    m_Localized: "Jak gra\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973969
+    m_Localized: Ustawienia gry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973970
+    m_Localized: Ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973971
+    m_Localized: "Podpowied\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362560
+    m_Localized: Notatki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362561
+    m_Localized: "Pozb\u0105d\u017A si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362562
+    m_Localized: "Anulowa\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362563
+    m_Localized: Pauza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362564
+    m_Localized: "Poziom trudno\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362565
+    m_Localized: Minutnik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362566
+    m_Localized: "B\u0142\u0119dy:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362567
+    m_Localized: Kontynuuj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362568
+    m_Localized: Rozpocznij ponownie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362569
+    m_Localized: 'Koniec gry
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362570
+    m_Localized: "Przegra\u0142e\u015B, pope\u0142ni\u0142e\u015B wi\u0119cej ni\u017C
+      3 b\u0142\u0119dy.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362571
+    m_Localized: Druga szansa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362572
+    m_Localized: "Powt\xF3rz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362573
+    m_Localized: Nowa gra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362574
+    m_Localized: "Pocz\u0105tkuj\u0105cy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362575
+    m_Localized: "\u0141atwy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362576
+    m_Localized: "\u015Aredni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362577
+    m_Localized: Trudny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362578
+    m_Localized: Ekspert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362579
+    m_Localized: Ekstremalny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036020349616128
+    m_Localized: 'Minutnik:
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883433977200640
+    m_Localized: "J\u0119zyk urz\u0105dzenia"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

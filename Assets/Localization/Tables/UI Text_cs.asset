@@ -1,0 +1,327 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_cs
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs
+  m_SharedData: {fileID: 11400000, guid: 78873f953f860764fbc8fba970905860, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 61937151590400
+    m_Localized: "angli\u010Dtina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196736
+    m_Localized: "ru\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196737
+    m_Localized: "arab\u0161tina (Spojen\xE9 arabsk\xE9 emir\xE1ty)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196738
+    m_Localized: "francouz\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196739
+    m_Localized: "n\u011Bm\u010Dina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196740
+    m_Localized: "\u0161pan\u011Bl\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196741
+    m_Localized: "portugal\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196742
+    m_Localized: "zjednodu\u0161en\xE1 \u010D\xEDn\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196743
+    m_Localized: "tradi\u010Dn\xED \u010D\xEDn\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196744
+    m_Localized: "hebrej\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196745
+    m_Localized: "japon\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196746
+    m_Localized: "ture\u010Dtina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196747
+    m_Localized: "tamil\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585344
+    m_Localized: "hind\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585345
+    m_Localized: "indon\xE9\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585346
+    m_Localized: "vietnam\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585347
+    m_Localized: "\u0159e\u010Dtina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585348
+    m_Localized: "korej\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585349
+    m_Localized: "srb\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585350
+    m_Localized: "\u0161v\xE9d\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585351
+    m_Localized: "fin\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585352
+    m_Localized: "pol\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585353
+    m_Localized: "nizozem\u0161tina (Nizozemsko)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585354
+    m_Localized: "\u010De\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585355
+    m_Localized: "d\xE1n\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779648
+    m_Localized: "nor\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779649
+    m_Localized: "per\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779650
+    m_Localized: "thaj\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779651
+    m_Localized: "telug\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779652
+    m_Localized: "urd\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779653
+    m_Localized: "sinh\xE1l\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779654
+    m_Localized: "filip\xEDn\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779655
+    m_Localized: "ital\u0161tina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779656
+    m_Localized: "Obecn\xE1 nastaven\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973952
+    m_Localized: "Zvukov\xE9 efekty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973953
+    m_Localized: Jazyk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973954
+    m_Localized: Vyberte jazyk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973955
+    m_Localized: Automaticky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973956
+    m_Localized: "Ohodno\u0165te aplikaci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973957
+    m_Localized: "Odeslat zp\u011Btnou vazbu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973958
+    m_Localized: "Sd\xEDlet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973959
+    m_Localized: Odebrat reklamy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973960
+    m_Localized: "Jin\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973961
+    m_Localized: "Zb\xFDvaj\xEDc\xED \u010D\xEDsla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973962
+    m_Localized: "\u010Casova\u010D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973963
+    m_Localized: "Maxim\xE1ln\xED po\u010Det chyb"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973964
+    m_Localized: Zobrazit informace o hlavolamu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973965
+    m_Localized: "Automatick\xE9 odstran\u011Bn\xED pozn\xE1mek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973966
+    m_Localized: "Zv\xFDraznit stejn\xE9 \u010D\xEDslice"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973967
+    m_Localized: "Zv\xFDraznit stejn\xE9 \u010D\xEDslice"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973968
+    m_Localized: "Jak hr\xE1t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973969
+    m_Localized: "Nastaven\xED hry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973970
+    m_Localized: "Nastaven\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973971
+    m_Localized: Tip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362560
+    m_Localized: "Pozn\xE1mky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362561
+    m_Localized: Vymazat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362562
+    m_Localized: "Zru\u0161it"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362563
+    m_Localized: Pozastavit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362564
+    m_Localized: "Obt\xED\u017Enost"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362565
+    m_Localized: "\u010Casova\u010D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362566
+    m_Localized: 'Chyby:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362567
+    m_Localized: "Pokra\u010Dovat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362568
+    m_Localized: "Za\u010D\xEDt znovu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362569
+    m_Localized: Konec hry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362570
+    m_Localized: "Prohr\xE1li jste, ud\u011Blali jste v\xEDce ne\u017E 3 chyby.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362571
+    m_Localized: "Druh\xE1 \u0161ance"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362572
+    m_Localized: Opakovat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362573
+    m_Localized: "Nov\xE1 hra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362574
+    m_Localized: "Za\u010D\xE1te\u010Dn\xEDk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362575
+    m_Localized: "Snadn\xFD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362576
+    m_Localized: "St\u0159edn\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362577
+    m_Localized: "T\u011B\u017Ek\xFD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362578
+    m_Localized: "Odborn\xEDk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362579
+    m_Localized: "Extr\xE9mn\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036020349616128
+    m_Localized: "\u010Casova\u010D:\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883433977200640
+    m_Localized: "Jazyk za\u0159\xEDzen\xED"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

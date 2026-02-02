@@ -1,0 +1,329 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_sv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv
+  m_SharedData: {fileID: 11400000, guid: 78873f953f860764fbc8fba970905860, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 61937151590400
+    m_Localized: Engelska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196736
+    m_Localized: Ryska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196737
+    m_Localized: "Arabiska (F\xF6renade Arabemiraten)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196738
+    m_Localized: Franska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196739
+    m_Localized: Tyska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196740
+    m_Localized: Spanska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196741
+    m_Localized: Portugisiska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196742
+    m_Localized: "Kinesiska (f\xF6renklad)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196743
+    m_Localized: Kinesiska (traditionell)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196744
+    m_Localized: Hebreiska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196745
+    m_Localized: Japanska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196746
+    m_Localized: Turkiska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196747
+    m_Localized: Tamil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585344
+    m_Localized: Hindi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585345
+    m_Localized: Indonesiska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585346
+    m_Localized: Vietnamesiska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585347
+    m_Localized: Grekiska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585348
+    m_Localized: Koreanska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585349
+    m_Localized: Serbiska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585350
+    m_Localized: Svenska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585351
+    m_Localized: Finska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585352
+    m_Localized: Polska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585353
+    m_Localized: "Nederl\xE4ndska (Nederl\xE4nderna)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585354
+    m_Localized: Tjeckiska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585355
+    m_Localized: Danska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779648
+    m_Localized: Norska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779649
+    m_Localized: Persiska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779650
+    m_Localized: "Thail\xE4ndska"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779651
+    m_Localized: Telugu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779652
+    m_Localized: Urdu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779653
+    m_Localized: Singalesiska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779654
+    m_Localized: Filippinska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779655
+    m_Localized: Italienska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779656
+    m_Localized: "Allm\xE4nna inst\xE4llningar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973952
+    m_Localized: Ljudeffekter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973953
+    m_Localized: "Spr\xE5k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973954
+    m_Localized: "V\xE4lj spr\xE5k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973955
+    m_Localized: Automatisk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973956
+    m_Localized: "Betygs\xE4tt appen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973957
+    m_Localized: Skicka feedback
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973958
+    m_Localized: Dela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973959
+    m_Localized: Ta bort annonser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973960
+    m_Localized: Annat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973961
+    m_Localized: Kvarvarande nummer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973962
+    m_Localized: Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973963
+    m_Localized: "Felgr\xE4ns"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973964
+    m_Localized: Visa pusselinformation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973965
+    m_Localized: Automatisk borttagning av anteckningar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973966
+    m_Localized: "Markera omr\xE5de"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973967
+    m_Localized: Markera lika siffror
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973968
+    m_Localized: Hur man spelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973969
+    m_Localized: "Spelinst\xE4llningar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973970
+    m_Localized: "Inst\xE4llningar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973971
+    m_Localized: Tips
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362560
+    m_Localized: Anteckningar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362561
+    m_Localized: Radera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362562
+    m_Localized: Avbryt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362563
+    m_Localized: Paus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362564
+    m_Localized: "Sv\xE5righetsgrad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362565
+    m_Localized: Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362566
+    m_Localized: 'Fel:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362567
+    m_Localized: "Forts\xE4tt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362568
+    m_Localized: Starta om
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362569
+    m_Localized: "Slut p\xE5 spelet\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362570
+    m_Localized: "Du f\xF6rlorade, du gjorde fler \xE4n 3 misstag.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362571
+    m_Localized: Andra chansen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362572
+    m_Localized: Upprepa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362573
+    m_Localized: Nytt spel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362574
+    m_Localized: "Nyb\xF6rjare"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362575
+    m_Localized: "L\xE4tt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362576
+    m_Localized: Medel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362577
+    m_Localized: "Sv\xE5r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362578
+    m_Localized: Expert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362579
+    m_Localized: Extrem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036020349616128
+    m_Localized: 'Timer:
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883433977200640
+    m_Localized: "Enhetsspr\xE5k"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,333 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 78873f953f860764fbc8fba970905860, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 61937151590400
+    m_Localized: Inggris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196736
+    m_Localized: Rusia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196737
+    m_Localized: Arab (Uni Emirat Arab)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196738
+    m_Localized: Prancis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196739
+    m_Localized: Jerman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196740
+    m_Localized: Spanyol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196741
+    m_Localized: Portugis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196742
+    m_Localized: Tionghoa (Sederhana)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196743
+    m_Localized: Tionghoa (Tradisional)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196744
+    m_Localized: Ibrani
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196745
+    m_Localized: Jepang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196746
+    m_Localized: Turki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196747
+    m_Localized: Tamil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585344
+    m_Localized: Hindi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585345
+    m_Localized: Indonesia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585346
+    m_Localized: Vietnam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585347
+    m_Localized: Yunani
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585348
+    m_Localized: Korea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585349
+    m_Localized: Serbia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585350
+    m_Localized: Swedia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585351
+    m_Localized: Finlandia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585352
+    m_Localized: Polandia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585353
+    m_Localized: Belanda (Belanda)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585354
+    m_Localized: Ceko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585355
+    m_Localized: Denmark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779648
+    m_Localized: Norwegia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779649
+    m_Localized: Persia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779650
+    m_Localized: Thai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779651
+    m_Localized: Telugu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779652
+    m_Localized: Urdu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779653
+    m_Localized: Sinhala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779654
+    m_Localized: Filipino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779655
+    m_Localized: Italia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779656
+    m_Localized: Pengaturan umum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973952
+    m_Localized: Efek suara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973953
+    m_Localized: Bahasa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973954
+    m_Localized: Pilih bahasa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973955
+    m_Localized: Otomatis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973956
+    m_Localized: Beri peringkat aplikasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973957
+    m_Localized: Kirim umpan balik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973958
+    m_Localized: Bagikan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973959
+    m_Localized: Hapus iklan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973960
+    m_Localized: Lainnya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973961
+    m_Localized: Angka yang tersisa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973962
+    m_Localized: Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973963
+    m_Localized: Batas kesalahan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973964
+    m_Localized: Tampilkan info teka-teki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973965
+    m_Localized: Hapus catatan otomatis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973966
+    m_Localized: Sorot area
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973967
+    m_Localized: Sorot digit yang sama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973968
+    m_Localized: Bagaimana cara bermain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973969
+    m_Localized: Pengaturan permainan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973970
+    m_Localized: Pengaturan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973971
+    m_Localized: Petunjuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362560
+    m_Localized: Catatan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362561
+    m_Localized: Hapus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362562
+    m_Localized: Batal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362563
+    m_Localized: Berhenti sebentar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362564
+    m_Localized: Kesulitan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362565
+    m_Localized: Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362566
+    m_Localized: 'Kesalahan:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362567
+    m_Localized: Lanjut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362568
+    m_Localized: Mulai ulang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362569
+    m_Localized: 'Game selesai
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362570
+    m_Localized: 'Anda kalah, Anda melakukan lebih dari 3 kesalahan.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362571
+    m_Localized: ' Kesempatan kedua'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362572
+    m_Localized: Ulangi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362573
+    m_Localized: Permainan baru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362574
+    m_Localized: Pemula
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362575
+    m_Localized: Mudah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362576
+    m_Localized: Sedang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362577
+    m_Localized: Sulit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362578
+    m_Localized: Ahli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362579
+    m_Localized: Ekstrim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036020349616128
+    m_Localized: 'Timer:
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883433977200640
+    m_Localized: Bahasa perangkat
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,331 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 78873f953f860764fbc8fba970905860, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 61937151590400
+    m_Localized: anglais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196736
+    m_Localized: russe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196737
+    m_Localized: "arabe (\xC9mirats arabes unis)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196738
+    m_Localized: "fran\xE7ais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196739
+    m_Localized: allemand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196740
+    m_Localized: espagnol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196741
+    m_Localized: portugais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196742
+    m_Localized: "chinois (simplifi\xE9)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196743
+    m_Localized: chinois (traditionnel)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196744
+    m_Localized: "h\xE9breu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196745
+    m_Localized: japonais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196746
+    m_Localized: turc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196747
+    m_Localized: tamoul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585344
+    m_Localized: hindi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585345
+    m_Localized: "indon\xE9sien"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585346
+    m_Localized: vietnamien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585347
+    m_Localized: grec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585348
+    m_Localized: "cor\xE9en"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585349
+    m_Localized: serbe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585350
+    m_Localized: "su\xE9dois"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585351
+    m_Localized: finnois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585352
+    m_Localized: polonais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585353
+    m_Localized: "n\xE9erlandais (Pays-Bas)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585354
+    m_Localized: "tch\xE8que"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585355
+    m_Localized: danois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779648
+    m_Localized: "norv\xE9gien"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779649
+    m_Localized: persan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779650
+    m_Localized: "tha\xEF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779651
+    m_Localized: "t\xE9lougou"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779652
+    m_Localized: ourdou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779653
+    m_Localized: singhalais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779654
+    m_Localized: filipino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779655
+    m_Localized: italien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779656
+    m_Localized: "Param\xE8tres g\xE9n\xE9raux"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973952
+    m_Localized: Effets sonores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973953
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973954
+    m_Localized: "S\xE9lectionner la langue"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973955
+    m_Localized: Automatique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973956
+    m_Localized: "Noter l\u2019application"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973957
+    m_Localized: Envoyer des commentaires
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973958
+    m_Localized: Partager
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973959
+    m_Localized: "Supprimer les publicit\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973960
+    m_Localized: Autres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973961
+    m_Localized: Chiffres restants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973962
+    m_Localized: Minuteur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973963
+    m_Localized: "Limite d\u2019erreur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973964
+    m_Localized: "Afficher les informations sur l\u2019\xE9nigme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973965
+    m_Localized: Suppression automatique des notes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973966
+    m_Localized: Surligner la zone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973967
+    m_Localized: "Surligner les m\xEAmes chiffres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973968
+    m_Localized: Comment jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973969
+    m_Localized: "Param\xE8tres du jeu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973970
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973971
+    m_Localized: Conseil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362560
+    m_Localized: Notes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362561
+    m_Localized: Effacer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362562
+    m_Localized: Annuler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362563
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362564
+    m_Localized: "Difficult\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362565
+    m_Localized: Minuteur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362566
+    m_Localized: 'Erreurs:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362567
+    m_Localized: Continuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362568
+    m_Localized: Recommencer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362569
+    m_Localized: Fin du jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362570
+    m_Localized: 'Vous avez perdu, vous avez fait plus de 3 erreurs.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362571
+    m_Localized: Seconde chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362572
+    m_Localized: "R\xE9p\xE9ter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362573
+    m_Localized: Nouvelle partie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362574
+    m_Localized: "D\xE9butant"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362575
+    m_Localized: Facile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362576
+    m_Localized: Moyen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362577
+    m_Localized: Difficile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362578
+    m_Localized: Expert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362579
+    m_Localized: "Extr\xEAme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036020349616128
+    m_Localized: 'Minuteur:
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883433977200640
+    m_Localized: Langue de l'appareil
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,26 @@
+# === Unity ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+
+# === OS / IDE ===
+.vscode/
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# === Crash reports ===
+sysinfo.txt
+
+# === Android / Gradle ===
+.gradle/

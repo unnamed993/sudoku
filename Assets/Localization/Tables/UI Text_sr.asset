@@ -1,0 +1,331 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_sr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sr
+  m_SharedData: {fileID: 11400000, guid: 78873f953f860764fbc8fba970905860, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 61937151590400
+    m_Localized: Engleski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196736
+    m_Localized: Ruski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196737
+    m_Localized: Arapski (Ujedinjeni Arapski Emirati)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196738
+    m_Localized: Francuski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196739
+    m_Localized: "Nema\u010Dki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196740
+    m_Localized: "\u0160panski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196741
+    m_Localized: Portugalski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196742
+    m_Localized: Kineski (pojednostavljeni)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196743
+    m_Localized: Kineski (tradicionalni)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196744
+    m_Localized: Hebrejski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196745
+    m_Localized: Japanski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196746
+    m_Localized: Turski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196747
+    m_Localized: Tamilski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585344
+    m_Localized: Hindu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585345
+    m_Localized: "Indone\u017Eanski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585346
+    m_Localized: Vijetnamski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585347
+    m_Localized: "Gr\u010Dki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585348
+    m_Localized: Korejski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585349
+    m_Localized: Srpski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585350
+    m_Localized: "\u0160vedski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585351
+    m_Localized: Finski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585352
+    m_Localized: Poljski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585353
+    m_Localized: Holandski (Holandija)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585354
+    m_Localized: "\u010Ce\u0161ki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585355
+    m_Localized: Danski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779648
+    m_Localized: "Norve\u0161ki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779649
+    m_Localized: Persijski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779650
+    m_Localized: Tajlandski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779651
+    m_Localized: Telugu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779652
+    m_Localized: Urdu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779653
+    m_Localized: "Sinhale\u0161ki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779654
+    m_Localized: Filipinski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779655
+    m_Localized: Italijanski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779656
+    m_Localized: "Op\u0161ta pode\u0161avanja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973952
+    m_Localized: "Zvu\u010Dni efekti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973953
+    m_Localized: Jezik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973954
+    m_Localized: Izaberite jezik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973955
+    m_Localized: Automatski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973956
+    m_Localized: Ocenite aplikaciju
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973957
+    m_Localized: "Po\u0161aljite povratne informacije"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973958
+    m_Localized: Podelite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973959
+    m_Localized: Uklonite oglase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973960
+    m_Localized: Drugo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973961
+    m_Localized: Preostali brojevi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973962
+    m_Localized: Tajmer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973963
+    m_Localized: "Granica gre\u0161aka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973964
+    m_Localized: "Prika\u017Ei informacije o zagonetki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973965
+    m_Localized: "Automatsko uklanjanje bele\u017Eaka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973966
+    m_Localized: "Izdvojite podru\u010Dje"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973967
+    m_Localized: "Ozna\u010Di iste cifre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973968
+    m_Localized: Kako igrati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973969
+    m_Localized: "Pode\u0161avanja igre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973970
+    m_Localized: "Pode\u0161avanja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973971
+    m_Localized: Savjet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362560
+    m_Localized: "Bele\u0161ke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362561
+    m_Localized: "Izbri\u0161i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362562
+    m_Localized: "Otka\u017Ei"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362563
+    m_Localized: Pauza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362564
+    m_Localized: "Te\u017Eina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362565
+    m_Localized: Tajmer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362566
+    m_Localized: "Gre\u0161ke:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362567
+    m_Localized: Nastavi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362568
+    m_Localized: Ponovo pokreni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362569
+    m_Localized: 'Kraj igre
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362570
+    m_Localized: "Izgubili ste, napravili ste vi\u0161e od 3 gre\u0161ke.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362571
+    m_Localized: "Druga \u0161ansa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362572
+    m_Localized: Ponovi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362573
+    m_Localized: Nova igra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362574
+    m_Localized: "Po\u010Detnik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362575
+    m_Localized: Lako
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362576
+    m_Localized: Srednje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362577
+    m_Localized: "Te\u0161ko"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362578
+    m_Localized: "Stru\u010Dnjak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362579
+    m_Localized: Ekstreman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036020349616128
+    m_Localized: 'Tajmer:
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883433977200640
+    m_Localized: "\u0408\u0435\u0437\u0438\u043A \u0443\u0440\u0435\u0452\u0430\u0458\u0430"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

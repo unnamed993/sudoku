@@ -1,0 +1,329 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 78873f953f860764fbc8fba970905860, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 61937151590400
+    m_Localized: "\u0130ngilizce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196736
+    m_Localized: "Rus\xE7a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196737
+    m_Localized: "Arap\xE7a (Birle\u015Fik Arap Emirlikleri)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196738
+    m_Localized: "Frans\u0131zca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196739
+    m_Localized: Almanca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196740
+    m_Localized: "\u0130spanyolca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196741
+    m_Localized: Portekizce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196742
+    m_Localized: "\xC7ince (Basitle\u015Ftirilmi\u015F)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196743
+    m_Localized: "\xC7ince (Geleneksel)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196744
+    m_Localized: "\u0130branice"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196745
+    m_Localized: Japonca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196746
+    m_Localized: "T\xFCrk\xE7e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196747
+    m_Localized: Tamilce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585344
+    m_Localized: "Hint\xE7e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585345
+    m_Localized: Endonezce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585346
+    m_Localized: Vietnamca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585347
+    m_Localized: Yunanca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585348
+    m_Localized: Korece
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585349
+    m_Localized: "S\u0131rp\xE7a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585350
+    m_Localized: "\u0130sve\xE7\xE7e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585351
+    m_Localized: Fince
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585352
+    m_Localized: "Leh\xE7e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585353
+    m_Localized: "Felemenk\xE7e (Hollanda)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585354
+    m_Localized: "\xC7ek\xE7e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585355
+    m_Localized: Danca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779648
+    m_Localized: "Norve\xE7\xE7e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779649
+    m_Localized: "Fars\xE7a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779650
+    m_Localized: Tayca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779651
+    m_Localized: Teluguce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779652
+    m_Localized: Urduca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779653
+    m_Localized: Sinhala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779654
+    m_Localized: Filipince
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779655
+    m_Localized: "\u0130talyanca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779656
+    m_Localized: Genel ayarlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973952
+    m_Localized: Ses efektleri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973953
+    m_Localized: Dil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973954
+    m_Localized: "Dil se\xE7in"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973955
+    m_Localized: Otomatik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973956
+    m_Localized: "Uygulamay\u0131 de\u011Ferlendir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973957
+    m_Localized: "Geribildirim g\xF6nder"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973958
+    m_Localized: "Payla\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973959
+    m_Localized: "Kapat reklamlar\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973960
+    m_Localized: "Di\u011Fer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973961
+    m_Localized: "Kalan say\u0131lar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973962
+    m_Localized: "Zamanlay\u0131c\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973963
+    m_Localized: "Hata s\u0131n\u0131r\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973964
+    m_Localized: "Bulmaca bilgisini g\xF6ster"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973965
+    m_Localized: "Notlar\u0131 otomatik kald\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973966
+    m_Localized: "Alan\u0131 vurgula"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973967
+    m_Localized: "Ayn\u0131 rakamlar\u0131 vurgula"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973968
+    m_Localized: "Nas\u0131l oynan\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973969
+    m_Localized: "Oyun ayarlar\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973970
+    m_Localized: Ayarlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973971
+    m_Localized: "\u0130pucu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362560
+    m_Localized: Notlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362561
+    m_Localized: Sil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362562
+    m_Localized: "\u0130ptal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362563
+    m_Localized: Duraklat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362564
+    m_Localized: Zorluk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362565
+    m_Localized: "Zamanlay\u0131c\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362566
+    m_Localized: 'Hatalar:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362567
+    m_Localized: Devam et
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362568
+    m_Localized: "Yeniden ba\u015Flat\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362569
+    m_Localized: 'Oyun bitti
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362570
+    m_Localized: "Kaybettiniz, 3'ten fazla hata yapt\u0131n\u0131z.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362571
+    m_Localized: "\u0130kinci \u015Fans"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362572
+    m_Localized: Tekrarla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362573
+    m_Localized: Yeni oyun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362574
+    m_Localized: "Yeni ba\u015Flayan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362575
+    m_Localized: Kolay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362576
+    m_Localized: Orta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362577
+    m_Localized: Zor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362578
+    m_Localized: Uzman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362579
+    m_Localized: "A\u015F\u0131r\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036020349616128
+    m_Localized: "Zamanlay\u0131c\u0131:\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883433977200640
+    m_Localized: Cihaz Dili
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

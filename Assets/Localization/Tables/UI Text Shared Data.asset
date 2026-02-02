@@ -1,0 +1,334 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: 78873f953f860764fbc8fba970905860
+  m_Entries:
+  - m_Id: 61937151590400
+    m_Key: 'lang_english  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196736
+    m_Key: 'lang_russian  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196737
+    m_Key: 'lang_arabic  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196738
+    m_Key: 'lang_french  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196739
+    m_Key: 'lang_german  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196740
+    m_Key: 'lang_spanish  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196741
+    m_Key: 'lang_portuguese  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196742
+    m_Key: 'lang_chinese_simplified  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196743
+    m_Key: 'lang_chinese_traditional  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196744
+    m_Key: 'lang_hebrew  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196745
+    m_Key: 'lang_japanese  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196746
+    m_Key: 'lang_turkish  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196747
+    m_Key: 'lang_tamil  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585344
+    m_Key: 'lang_hindi  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585345
+    m_Key: 'lang_indonesian  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585346
+    m_Key: 'lang_vietnamese  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585347
+    m_Key: 'lang_greek  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585348
+    m_Key: 'lang_korean  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585349
+    m_Key: 'lang_serbian  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585350
+    m_Key: 'lang_swedish  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585351
+    m_Key: 'lang_finnish  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585352
+    m_Key: 'lang_polish  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585353
+    m_Key: 'lang_dutch  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585354
+    m_Key: 'lang_czech  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585355
+    m_Key: 'lang_danish  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779648
+    m_Key: 'lang_norwegian  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779649
+    m_Key: 'lang_persian  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779650
+    m_Key: 'lang_thai  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779651
+    m_Key: 'lang_telugu  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779652
+    m_Key: 'lang_urdu  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779653
+    m_Key: 'lang_sinhala  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779654
+    m_Key: 'lang_filipino  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779655
+    m_Key: 'lang_italian '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779656
+    m_Key: lbl_general_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973952
+    m_Key: lbl_sound_effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973953
+    m_Key: lbl_language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973954
+    m_Key: lbl_select_language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973955
+    m_Key: lbl_automatic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973956
+    m_Key: btn_rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973957
+    m_Key: btn_feedback
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973958
+    m_Key: btn_share
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973959
+    m_Key: btn_remove_ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973960
+    m_Key: lbl_other
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973961
+    m_Key: lbl_remaining_numbers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973962
+    m_Key: lbl_timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973963
+    m_Key: lbl_error_limit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973964
+    m_Key: lbl_show_info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973965
+    m_Key: lbl_auto_remove_notes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973966
+    m_Key: lbl_highlight_area
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973967
+    m_Key: lbl_highlight_same
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973968
+    m_Key: lbl_how_to_play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973969
+    m_Key: lbl_game_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973970
+    m_Key: lbl_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973971
+    m_Key: btn_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362560
+    m_Key: btn_note
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362561
+    m_Key: lbl_erase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362562
+    m_Key: btn_cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362563
+    m_Key: panel_pause_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362564
+    m_Key: panel_pause_difficulty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362565
+    m_Key: panel_pause_timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362566
+    m_Key: panel_pause_errors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362567
+    m_Key: btn_continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362568
+    m_Key: btn_restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362569
+    m_Key: panel_gameover_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362570
+    m_Key: panel_gameover_lost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362571
+    m_Key: btn_second_chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362572
+    m_Key: btn_repeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362573
+    m_Key: btn_new_game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362574
+    m_Key: lvl_beginner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362575
+    m_Key: lvl_easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362576
+    m_Key: lvl_medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362577
+    m_Key: lvl_hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362578
+    m_Key: lvl_expert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362579
+    m_Key: lvl_extreme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036020349616128
+    m_Key: 'main_panel_timer
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883433977200640
+    m_Key: device_language
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5030992553914400769
+  references:
+    version: 2
+    RefIds:
+    - rid: 5030992553914400769
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1754223869650

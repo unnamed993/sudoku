@@ -1,0 +1,331 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_nl-NL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl-NL
+  m_SharedData: {fileID: 11400000, guid: 78873f953f860764fbc8fba970905860, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 61937151590400
+    m_Localized: Engels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196736
+    m_Localized: Russisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196737
+    m_Localized: Arabisch (Verenigde Arabische Emiraten)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196738
+    m_Localized: Frans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196739
+    m_Localized: Duits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196740
+    m_Localized: Spaans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196741
+    m_Localized: Portugees
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196742
+    m_Localized: Chinees (Vereenvoudigd)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196743
+    m_Localized: Chinees (Traditioneel)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196744
+    m_Localized: Hebreeuws
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196745
+    m_Localized: Japans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196746
+    m_Localized: Turks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937294196747
+    m_Localized: Tamil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585344
+    m_Localized: Hindi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585345
+    m_Localized: Indonesisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585346
+    m_Localized: Vietnamees
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585347
+    m_Localized: Grieks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585348
+    m_Localized: Koreaans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585349
+    m_Localized: Servisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585350
+    m_Localized: Zweeds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585351
+    m_Localized: Fins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585352
+    m_Localized: Pools
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585353
+    m_Localized: Nederlands (Nederland)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585354
+    m_Localized: Tsjechisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937302585355
+    m_Localized: Deens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779648
+    m_Localized: Noors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779649
+    m_Localized: Perzisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779650
+    m_Localized: Thais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779651
+    m_Localized: Telugu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779652
+    m_Localized: Urdu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779653
+    m_Localized: Singalees
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779654
+    m_Localized: Filipijns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779655
+    m_Localized: Italiaans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937306779656
+    m_Localized: Algemene instellingen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973952
+    m_Localized: Geluidseffecten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973953
+    m_Localized: Taal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973954
+    m_Localized: Selecteer taal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973955
+    m_Localized: Automatisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973956
+    m_Localized: Beoordeel de app
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973957
+    m_Localized: Feedback versturen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973958
+    m_Localized: Deel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973959
+    m_Localized: Advertenties verwijderen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973960
+    m_Localized: Overige
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973961
+    m_Localized: Resterende nummers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973962
+    m_Localized: Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973963
+    m_Localized: Foutlimiet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973964
+    m_Localized: Tonen van puzzelinformatie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973965
+    m_Localized: Notities automatisch verwijderen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973966
+    m_Localized: Gebied markeren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973967
+    m_Localized: Markeer gelijke cijfers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973968
+    m_Localized: Hoe speel je
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973969
+    m_Localized: Spelinstellingen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973970
+    m_Localized: Instellingen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937310973971
+    m_Localized: Tip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362560
+    m_Localized: Notities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362561
+    m_Localized: Wissen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362562
+    m_Localized: Annuleren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362563
+    m_Localized: Pauzeren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362564
+    m_Localized: Moeilijkheid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362565
+    m_Localized: Timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362566
+    m_Localized: 'Fouten:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362567
+    m_Localized: Doorgaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362568
+    m_Localized: Opnieuw beginnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362569
+    m_Localized: "Spel be\xEBindigd"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362570
+    m_Localized: 'Je hebt verloren, je hebt meer dan 3 fouten gemaakt.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362571
+    m_Localized: Tweede kans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362572
+    m_Localized: Herhaal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362573
+    m_Localized: Nieuw spel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362574
+    m_Localized: Beginner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362575
+    m_Localized: Makkelijk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362576
+    m_Localized: Gemiddeld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362577
+    m_Localized: Moeilijk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362578
+    m_Localized: Expert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61937319362579
+    m_Localized: Extreem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036020349616128
+    m_Localized: 'Timer:
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883433977200640
+    m_Localized: Apparaattaal
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
