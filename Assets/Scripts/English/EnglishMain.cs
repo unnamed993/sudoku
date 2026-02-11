@@ -30,9 +30,28 @@ public class EnglishMain : MonoBehaviour
 
     void LoadLevel(int difficulty)
     {
-        EnglishGameSettings.EasyMiddleHard_Number = -1;
-        PlayerPrefs.DeleteAll();
-        SceneManager.LoadScene("EnglishGame");
         EnglishGameSettings.EasyMiddleHard_Number = difficulty;
+        PlayerPrefs.SetInt("SavedLevel", difficulty);
+
+        ClearNormalSave();
+
+        SceneManager.LoadScene("EnglishGame");
+    }
+    void ClearNormalSave()
+    {
+        for (int r = 0; r < 9; r++)
+            for (int c = 0; c < 9; c++)
+            {
+                PlayerPrefs.DeleteKey($"Cell_{r}_{c}");
+                PlayerPrefs.DeleteKey($"InitialCell_{r}_{c}");
+                PlayerPrefs.DeleteKey($"Solution_{r}_{c}");
+            }
+
+        PlayerPrefs.DeleteKey("ErrorCount");
+        PlayerPrefs.DeleteKey("ElapsedTime");
+        PlayerPrefs.DeleteKey("StatsStarted");
+        PlayerPrefs.DeleteKey("DailyDiff");
+
+        PlayerPrefs.Save();
     }
 }

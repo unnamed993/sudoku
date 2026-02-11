@@ -29,18 +29,12 @@ public class StatsPanelController : MonoBehaviour
             resetButton.onClick.RemoveAllListeners();
             resetButton.onClick.AddListener(ResetStats);
         }
-
-        int saved = PlayerPrefs.GetInt(PP_LAST_TAB, 0);
-        SelectByIndex(saved);
     }
 
     public void SelectByIndex(int index)
     {
         index = Mathf.Clamp(index, DIFF_MIN, DIFF_MAX);
         _current = (Difficulty)index;
-
-        PlayerPrefs.SetInt(PP_LAST_TAB, index);
-        PlayerPrefs.Save();
 
         int started = PlayerPrefs.GetInt(Key(index, "Started"), 0);
         int wins = PlayerPrefs.GetInt(Key(index, "Wins"), 0);

@@ -8,7 +8,7 @@ public class DailyPlayButton : MonoBehaviour
     private const string PP_MODE = "Game.Mode";
     private const string PP_DAILY_DATE = "Daily.SelectedDate";
 
-    public CalendarGenerator calendar;
+    public CalendarController3Pages calendar;
 
     public void OnPlayClicked()
     {

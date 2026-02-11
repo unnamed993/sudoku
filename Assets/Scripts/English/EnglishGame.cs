@@ -63,6 +63,7 @@ public class EnglishGame : MonoBehaviour
     void Start()
     {
         _completed = false;
+
         _isDaily = PlayerPrefs.GetString(PP_MODE, "normal") == "daily";
         if (_isDaily)
         {
@@ -76,36 +77,43 @@ public class EnglishGame : MonoBehaviour
 
         CreateFieldPrefabs();
         rowColHighlighter.Init(_englishFieldPrefabObjectDic);
+
         for (int i = 0; i < ControlButtons.Count; i++)
         {
             int digit = i + 1;
             ControlButtons[i].onClick.AddListener(() => OnControlButtonClicked(digit));
         }
 
-        if (!_isDaily)
+        if (_isDaily)
+        {
+            EnglishGameSettings.EasyMiddleHard_Number = 1;
+        }
+        else
         {
             EnglishGameSettings.EasyMiddleHard_Number =
                 PlayerPrefs.GetInt("SavedLevel", EnglishGameSettings.EasyMiddleHard_Number);
         }
-        else
-        {
-            EnglishGameSettings.EasyMiddleHard_Number = 1;
-        }
 
         if (PlayerPrefs.HasKey(K("Cell_0_0")))
+        {
             LoadGameState();
+        }
         else
         {
-            if (_isDaily)
-                CreateDailySudokuObject();
-            else
-                CreateSudokuObject();
+            if (_isDaily) CreateDailySudokuObject();
+            else CreateSudokuObject();
 
             SaveInitialState();
-            if (!_isDaily)
-                Stats_AddWin(EnglishGameSettings.EasyMiddleHard_Number, _timer, _errorCount == 0);
+        }
+
+        if (!PlayerPrefs.HasKey(K("StatsStarted")))
+        {
+            Stats_AddStarted(EnglishGameSettings.EasyMiddleHard_Number);
+            PlayerPrefs.SetInt(K("StatsStarted"), 1);
+            PlayerPrefs.Save();
         }
         AudioManager.Instance.BindButtons();
+
         UpdateErrorText();
         UpdateLevelText();
 
@@ -114,6 +122,7 @@ public class EnglishGame : MonoBehaviour
 
         _errorCount = PlayerPrefs.GetInt(K("ErrorCount"), 0);
         _dynamicMaxErrors = Settings.errorsLimitEnabled ? MaxErrors : int.MaxValue;
+
         UpdateErrorText();
         UpdateRemainingDigits();
 
@@ -349,8 +358,7 @@ public class EnglishGame : MonoBehaviour
                 PlayerPrefs.Save();
             }
         }
-        if (!isDaily)
-            Stats_AddWin(EnglishGameSettings.EasyMiddleHard_Number, _timer, _errorCount == 0);
+        Stats_AddWin(EnglishGameSettings.EasyMiddleHard_Number, _timer, _errorCount == 0);
 
         if (victoryOverlay != null)
             victoryOverlay.Show(isDaily);
@@ -543,7 +551,7 @@ public class EnglishGame : MonoBehaviour
 
         int started = PlayerPrefs.GetInt(StatsKey(diff, "Started"), 0);
         PlayerPrefs.SetInt(StatsKey(diff, "Started"), started + 1);
-        PlayerPrefs.Save();
+        PlayerPrefs.Save(); 
     }
 
     public static void Stats_AddWin(int diff, float timeSec, bool noErrors)

@@ -13,6 +13,9 @@ public class CalendarGenerator : MonoBehaviour
     public int currentMonth;
     public int currentYear;
 
+    public enum DayState { NotStarted, Started, Completed }
+    public event Action<DateTime, DayState> SelectedDayChanged;
+
     public Color normalTextColor = Color.black;
     public Color selectedTextColor = Color.white;
     public Color futureTextColor = new Color(0.75f, 0.75f, 0.75f, 1f);
@@ -37,7 +40,21 @@ public class CalendarGenerator : MonoBehaviour
 
         GenerateCalendar();
     }
+    private DayState GetDayState(DateTime d)
+    {
+        string key = d.ToString("yyyyMMdd");
+        bool completed = PlayerPrefs.GetInt($"DailyCompleted_{key}", 0) == 1;
+        if (completed) return DayState.Completed;
 
+        bool startedFlag = PlayerPrefs.GetInt($"DailyStarted_{key}", 0) == 1;
+        bool hasSave = PlayerPrefs.HasKey($"Daily_{key}_Cell_0_0");
+        return (startedFlag || hasSave) ? DayState.Started : DayState.NotStarted;
+    }
+    private void NotifySelectedDayChanged()
+    {
+        var d = GetSelectedDate();
+        SelectedDayChanged?.Invoke(d, GetDayState(d));
+    }
     public void NextMonth()
     {
         lastViewedMonthKey = MonthKey(currentYear, currentMonth);
@@ -47,7 +64,6 @@ public class CalendarGenerator : MonoBehaviour
 
         GenerateCalendar();
     }
-
     public void PreviousMonth()
     {
         lastViewedMonthKey = MonthKey(currentYear, currentMonth);
@@ -184,7 +200,6 @@ public class CalendarGenerator : MonoBehaviour
 
             if (bg != null) bgT.gameObject.SetActive(isSelected);
 
-            // маркеры Started / Completed
             if (!isFuture)
             {
                 string dateKey = new DateTime(currentYear, currentMonth, dayNumber).ToString("yyyyMMdd");
@@ -215,6 +230,7 @@ public class CalendarGenerator : MonoBehaviour
                         selectedDay = capturedDay;
                         savedDayByMonth[capturedKey] = capturedDay;
                         RefreshSelectionVisual();
+                        NotifySelectedDayChanged();
                     });
                 }
 
@@ -222,10 +238,9 @@ public class CalendarGenerator : MonoBehaviour
                 btn.enabled = !isFuture;
             }
         }
-
         RefreshSelectionVisual();
+        NotifySelectedDayChanged();
     }
-
     void RefreshSelectionVisual()
     {
         DateTime firstDay = new DateTime(currentYear, currentMonth, 1);
@@ -258,6 +273,7 @@ public class CalendarGenerator : MonoBehaviour
 
             if (txt != null)
                 txt.color = isFuture ? futureTextColor : (isSelected ? selectedTextColor : normalTextColor);
+            NotifySelectedDayChanged();
         }
     }
 
